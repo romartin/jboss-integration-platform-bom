@@ -151,16 +151,6 @@
 
       <dependency>
         <groupId>com.ahome-it</groupId>
-        <artifactId>lienzo-core</artifactId>
-        <version>${version.com.ahome-it.lienzo-core}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.ahome-it</groupId>
-        <artifactId>lienzo-tests</artifactId>
-        <version>${version.com.ahome-it.lienzo-tests}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.ahome-it</groupId>
         <artifactId>ahome-tooling-nativetools</artifactId>
         <version>${version.com.ahome-it.lienzo.tooling.nativetools}</version>
       </dependency>
